@@ -1,0 +1,10 @@
+.curators__name {
+  position: absolute;
+  bottom: 70px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.23;
+}

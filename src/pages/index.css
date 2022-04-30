@@ -1,0 +1,44 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/link/link.css);
+
+@import url(../blocks/section/section.css);
+@import url(../blocks/section/__title/section__title.css);
+@import url(../blocks/section/__text/section__text.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu-item/header__menu-item.css);
+
+@import url(../blocks/subheader/subheader.css);
+@import url(../blocks/subheader/__text/subheader__text.css);
+
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__text/about__text.css);
+@import url(../blocks/about/__line/about__line.css);
+
+@import url(../blocks/tutorial/__list/tutorial__list.css);
+@import url(../blocks/tutorial/__list-item/tutorial__list-item.css);
+@import url(../blocks/tutorial/__list-img/tutorial__list-img.css);
+@import url(../blocks/tutorial/__list-title/tutorial__list-title.css);
+@import url(../blocks/tutorial/__list-text/tutorial__list-text.css);
+@import url(../blocks/tutorial/__list-btn/tutorial__list-btn.css);
+
+@import url(../blocks/answer/answer.css);
+@import url(../blocks/answer/__list/answer__list.css);
+@import url(../blocks/answer/__list-item/answer__list-item.css);
+@import url(../blocks/answer/__list-number/answer__list-number.css);
+@import url(../blocks/answer/__list-title/answer__list-title.css);
+@import url(../blocks/answer/__list-text/answer__list-text.css);
+
+@import url(../blocks/quote/quote.css);
+@import url(../blocks/quote/__text/quote__text.css);
+@import url(../blocks/quote/__author-avatar/quote__author-avatar.css);
+@import url(../blocks/quote/__author-name/quote__author-name.css);
+
+@import url(../blocks/footer/footer.css);
+

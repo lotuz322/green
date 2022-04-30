@@ -1,0 +1,11 @@
+.answer__list-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 90px;
+  background-color: #eb633d;
+  color: white;
+  margin: 0;
+}

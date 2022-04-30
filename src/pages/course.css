@@ -1,0 +1,34 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/link/link.css);
+
+@import url(../blocks/section/section.css);
+@import url(../blocks/section/__title/section__title.css);
+@import url(../blocks/section/__text/section__text.css);
+@import url(../blocks/section/__up/section__up.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu-item/header__menu-item.css);
+
+@import url(../blocks/course/course.css);
+@import url(../blocks/course/__overlay/course__overlay.css);
+@import url(../blocks/course/__subtitle/course__subtitle.css);
+@import url(../blocks/course/__title/course__title.css);
+@import url(../blocks/course/__text/course__text.css);
+@import url(../blocks/course/__iframe-wrapper/course__iframe-wrapper.css);
+
+
+@import url(../blocks/subheader/__iframe/subheader__iframe.css);
+
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__text/video__text.css);
+
+@import url(../blocks/curators/curators.css);
+@import url(../blocks/curators/__container/curators__container.css);
+@import url(../blocks/curators/__img/curators__img.css);
+@import url(../blocks/curators/__name/curators__name.css);
+@import url(../blocks/curators/__description/curators__description.css);

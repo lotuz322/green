@@ -1,0 +1,5 @@
+.answer__list-item {
+  width: 360px;
+  display: flex;
+  gap: 20px;
+}

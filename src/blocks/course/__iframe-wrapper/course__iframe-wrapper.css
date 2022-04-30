@@ -1,0 +1,11 @@
+.course__iframe-wrapper {
+  margin: 0 auto;
+  width: 1890px;
+  height: 976px;
+}
+
+@media screen and (max-width: 1889px){
+  .course__iframe-wrapper {
+    width: 100%;
+  }
+}

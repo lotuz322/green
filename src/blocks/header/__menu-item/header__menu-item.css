@@ -1,0 +1,9 @@
+.header__menu-item {
+  color: black;
+  font-weight: 600;
+  font-size: 16px;
+  margin: 0;
+}
+.header__menu-item:active {
+  color: black;
+}

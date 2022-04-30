@@ -1,0 +1,12 @@
+.curators__img {
+  display: block;
+  width: 560px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  transition: 1s;
+}
+
+.curators__img:hover {
+  transform: scale(1.1);
+}
