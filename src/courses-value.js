@@ -1,4 +1,11 @@
-const courses = [
+import samir from './images/maxsim.png';
+import mariya from './images/eco-suma.png';
+import natalya from './images/natalya.png';
+import artem from './images/artem.png';
+import evgeniya from './images/evgeniya.png';
+import eco from './images/ecoschool.png';
+
+export default [
   {
     name: "Термин «Ноль отходов» (Zero Waste)\n Специально приглашенный гость из Белоруссии - Мария Сума",
     description: "сохранение всех ресурсов путем ответственного производства, потребления," +
@@ -44,12 +51,12 @@ const courses = [
       {
         name: "Мамедов Самир",
         description: "Организатор проекта",
-        src: "images/maxsim.png"
+        src: samir
       },
       {
         name: "Мария Сума",
         description: "Сотрудница центра экологических решений",
-        src: "images/eco-suma.png"
+        src: mariya
       },
     ]
   },
@@ -69,12 +76,12 @@ const courses = [
       {
         name: "Мамедов Самир",
         description: "Организатор проекта",
-        src: "images/maxsim.png"
+        src: samir
       },
       {
         name: "Биканова Наталья Викторовна",
         description: "Эксперт. Преподаватель биологии в СОШ №1 г. Дубна",
-        src: "images/natalya.png"
+        src: natalya
       },
     ]
   },
@@ -99,12 +106,12 @@ const courses = [
       {
         name: "Мамедов Самир",
         description: "Организатор проекта",
-        src: "images/maxsim.png"
+        src: samir
       },
       {
         name: "Хачатрян Артем Норайрович",
         description: "Профессор. Практикующий врач. ",
-        src: "images/artem.png"
+        src: artem
       },
     ]
   },
@@ -124,13 +131,13 @@ const courses = [
       {
         name: "Мамедов Самир",
         description: "Организатор проекта",
-        src: "images/maxsim.png"
+        src: samir
       },
       {
         name: "Любченко Евгения Викторовна",
         description: "Заместитель начальника отдела пропаганды и " +
           "развития новых технологий ГКУ КК \"Агентство ТЭК\"",
-        src: "images/evgeniya.png"
+        src: evgeniya
       },
 
     ]
@@ -152,12 +159,12 @@ const courses = [
       {
         name: "Мамедов Самир",
         description: "Организатор проекта",
-        src: "images/maxsim.png"
+        src: samir
       },
       {
         name: "\"Экошкола КУСКОВО\"",
         description: "Эколого-просветительский центр",
-        src: "images/ecoshool.png"
+        src: eco
       },
 
     ]

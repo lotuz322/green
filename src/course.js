@@ -1,5 +1,7 @@
+import courses from './courses-value.js';
+import './pages/course.css';
 const gallery = document.querySelector('.videos-gallery');
-const curators = document.querySelector('.curators');
+const curators = document.querySelector('.curators__wrapper');
 const titleHeader = document.querySelector('.course__title');
 const textHeader = document.querySelector('.course__text');
 const iframeHeader = document.querySelector('.subheader__iframe');
@@ -21,7 +23,7 @@ const createCuratorsSection = ({src, name, description}) => {
     .querySelector('.curators__container')
     .cloneNode(true);
 
-  element.querySelector('.curators__img').src = src;
+  element.querySelector('.curators__img').style.backgroundImage = `url('${src}')`;
   element.querySelector('.curators__name').textContent = name;
   element.querySelector('.curators__description').textContent = description;
 

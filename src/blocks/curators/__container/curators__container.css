@@ -1,5 +1,5 @@
 .curators__container {
-  display: inline-block;
   position: relative;
+  display: inline-block;
   overflow: hidden;
 }

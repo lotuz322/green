@@ -32,3 +32,5 @@
 @import url(../blocks/curators/__img/curators__img.css);
 @import url(../blocks/curators/__name/curators__name.css);
 @import url(../blocks/curators/__description/curators__description.css);
+@import url(../blocks/curators/__title/curators__title.css);
+@import url(../blocks/curators/__wrapper/curators__wrapper.css);
